@@ -1,0 +1,24 @@
+/* style.css */
+
+.odd {
+    background-color: #ff7f50;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.med-font,
+#div2 {
+    font-size: 24px;
+}
+
+#div1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: hsl(160, 100%, 75%);
+}
